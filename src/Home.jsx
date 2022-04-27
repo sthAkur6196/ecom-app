@@ -46,7 +46,7 @@ function Home(){
                     <Product 
                         id={6}
                         title="Lorem ipsum dolor sit amet consectetur adipisicing elit. Et, unde!"
-                        price={1099}
+                        price="1099"
                         rating={3}
                     />
                 </div>
