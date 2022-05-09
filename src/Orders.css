@@ -1,0 +1,15 @@
+.orders{
+    display: flex;
+    justify-content: center;
+}
+
+.orders_container{
+    width: 100vw;
+    background-color: white;
+    text-align: center;
+    padding: 30px;
+}
+.orders_container > h1{
+    font-size: 35px;
+    font-weight: 350;
+}
